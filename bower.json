@@ -1,0 +1,22 @@
+{
+  "name": "inputmask",
+  "version": "0.0.1",
+  "authors": [
+    "Osvaldo Azcurra <osvaldoazcurra@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "dist/fileinput.min.js",
+    "dist/jasny-bootstrap.min.js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
