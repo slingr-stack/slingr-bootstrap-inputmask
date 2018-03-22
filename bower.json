@@ -1,6 +1,6 @@
 {
-  "name": "inputmask",
-  "version": "0.0.1",
+  "name": "bootstrap-inputmask",
+  "version": "1.0.1",
   "authors": [
     "Osvaldo Azcurra <osvaldoazcurra@gmail.com>"
   ],
@@ -14,9 +14,16 @@
   ],
   "main": [
     "dist/fileinput.min.js",
-    "dist/jasny-bootstrap.min.js"
+    "dist/jasny-bootstrap.min.css"
   ],
   "dependencies": {
     "bootstrap": "~3.3.4"
-  }
+  },
+  "homepage": "https://github.com/oazcurra/inputmask",
+  "description": "Extract of InputMask from Jasny",
+  "keywords": [
+    "bootstrap",
+    "inputmask",
+    "jasny"
+  ]
 }
