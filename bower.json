@@ -17,7 +17,7 @@
     "dist/jasny-bootstrap.min.css"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.4"
+    "bootstrap": "3.4.1"
   },
   "homepage": "https://github.com/oazcurra/inputmask",
   "description": "Extract of InputMask from Jasny",
