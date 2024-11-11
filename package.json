@@ -1,15 +1,15 @@
 {
   "name": "inputmask",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Just an extract of Jasny Input mask component",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oazcurra/inputmask.git"
+    "url": "https://github.com/slingr-stack/slingr-bootstrap-inputmask.git"
   },
   "author": "Osvaldo Azcurra",
   "license": "MIT",
-  "homepage": "https://github.com/oazcurra/inputmask#README",
+  "homepage": "https://github.com/slingr-stack/slingr-bootstrap-inputmask#README",
   "dependencies": {
   },
   "devDependencies": {
